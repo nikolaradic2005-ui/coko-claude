@@ -1,4 +1,4 @@
-# Profil (iz sesije "Gym Buddy project", 16.11.2026)
+# Profil (stara dnevnička i planska istorija obrisana 23.11.2026, profil ostaje)
 
 - Pol / godine: muškarac, 21
 - Visina / težina: 178 cm, ~82 kg (80–85)
