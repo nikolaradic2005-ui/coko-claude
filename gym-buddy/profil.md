@@ -1,0 +1,11 @@
+# Profil
+- Cilj:
+- Godine:
+- Visina:
+- Težina:
+- Iskustvo:
+- Dani sedmično / gdje treniram:
+- Oprema:
+- Povrede:
+- Alergije / šta ne jedem:
+- Budžet za hranu:
