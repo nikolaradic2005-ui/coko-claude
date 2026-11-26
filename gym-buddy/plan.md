@@ -22,5 +22,15 @@ Kilaže: bench startuj od 40 kg i diži dok ne ostanu 2 pon. u rezervi; kosi ben
 | Biceps pregib bučicama | 3 × 10–12 | 60–90 s |
 Trčanje: lagano, 20–30 min (tempo uz koji možeš pričati), poslije treninga ili kasnije popodne.
 
+## Dan 3: Noge — 26.11.
+| Vježba | Serije × pon. | Pauza |
+|---|---|---|
+| Čučanj (šipka) ili leg press | 4 × 6–8 | 2–3 min |
+| Rumunsko mrtvo dizanje | 3 × 8–10 | 2 min |
+| Bugarski split čučanj (bučice) | 3 × 8–10 po nozi | 90 s |
+| Leg curl | 3 × 10–12 | 60–90 s |
+| Skok na prste (listovi) | 4 × 12–15 | 60 s |
+Bez trčanja danas i sutra ujutru.
+
 # Plan ishrane
 Cilj ~2300–2400 kcal, protein ~160–185 g. (detalji kad zatraži)
