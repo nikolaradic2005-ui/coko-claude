@@ -32,5 +32,16 @@ Trčanje: lagano, 20–30 min (tempo uz koji možeš pričati), poslije treninga
 | Skok na prste (listovi) | 4 × 12–15 | 60 s |
 Bez trčanja danas i sutra ujutru.
 
+## Dan 4: Gornji dio (grudi, leđa, ramena, ruke) — 27.11.
+| Vježba | Serije × pon. | Pauza |
+|---|---|---|
+| Kosi bench (šipka ili bučice) | 4 × 8–10 | 2 min |
+| Lat pulldown ili zgibovi | 4 × 8–10 | 2 min |
+| Veslanje bučicom (jednom rukom) | 3 × 10–12 | 90 s |
+| Potisak iznad glave (sjedeći) | 3 × 8–10 | 2 min |
+| Superset: biceps pregib + triceps na sajli | 3 × 10–12 | 90 s |
+| Face pull | 3 × 15 | 60 s |
+Trčanje: lagano, 20–30 min, poslije treninga (noge su od jučer, pa tempo mirniji).
+
 # Plan ishrane
 Cilj ~2300–2400 kcal, protein ~160–185 g. (detalji kad zatraži)
